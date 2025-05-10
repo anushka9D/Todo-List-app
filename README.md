@@ -38,8 +38,8 @@
    cd Todo-List-app/cypress
    npx cypress open
   ```
-**Now open Cypress**
-**After open Cypress click E2E Testing**
-**Click continue**
-**Select Chrome then Click Start**
-**Navigate to the other test case Click Specs button**
+1. **Now open Cypress**
+2. **After open Cypress click E2E Testing**
+3. **Click continue**
+4. **Select Chrome then Click Start**
+5. **Navigate to the other test case Click Specs button**
